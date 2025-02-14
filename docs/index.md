@@ -6,5 +6,5 @@ Hola! aqui encontraras las guias que necesites
 
 [Acceder a Guía de Referencia (PDF)](Guia_de_Referencia.pdf)
 [Acceder a Guía de Instalacion (PDF)](Guia_de_Instalacion.pdf)
-[Acceder a Manual de Usuario  (PDF)](Manual_de_Usurio.pdf)
+[Descargar Manual de Usuario (PDF)](Manual_de_Usuario.pdf)
 
