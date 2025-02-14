@@ -1,9 +1,18 @@
 site_name: Documentacion_Proyecto
 site_url: https://DanielMarinhoMartinez.github.io/Documentacion_Proyecto/
+
+# docs_src es donde se encuentran los archivos de entrada
 docs_dir: 'docs_src'
+
+# docs es donde se generarán los archivos estáticos
 site_dir: 'docs'
+
+# Configuración de la navegación
 nav:
   - Manual de Usuario: Manual_de_Usuario.md
   - Guía de Referencia: Guia_de_Referencia.md
   - Guía de Instalación: Guia_de_Instalacion.md
   - Index: index.md
+
+theme:
+  name: mkdocs
